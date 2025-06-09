@@ -1,0 +1,39 @@
+// Base
+
+"base.edit" = "Редактировать";
+"base.delete" = "Удалить";
+"base.cancel" = "Отменить";
+"base.complete" = "Завершить";
+"base.save" = "Сохранить";
+
+"base.resume.title" = "Выбор направления";
+"base.resume.main" = "Форма обучения (опционально)";
+"base.resume.name" = "Результат";
+"base.resume.age" = "Возраст";
+"base.resume.birthday" = "Дата рождения";
+"base.resume.job" = "Очно/Заочно";
+"base.resume.contacts" = "Желаемая область (опционально)";
+"base.resume.contact" = "Предмет";
+"base.resume.link" = "Балл (опционально)";
+"base.resume.fields" = "ЕГЭ";
+"base.resume.field" = "Область";
+
+// Main
+
+"main.resume-section.empty" = "Время выбрать своё направление!";
+
+"main.toolbar.title" = "Моё будущее в РГУ";
+
+"main.confirmation-dialog.edit-resume" = "Редактировать анкету";
+"main.confirmation-dialog.delete-resume" = "Удалить анкету";
+
+"main.delete-resume-alert.title" = "Удаление анкету";
+"main.delete-resume-alert.description" = "Анкета будет стерта без возможности восстановления";
+
+// ResumeEditor
+
+"resume-editor.toolbar.title" = "Анкета";
+
+"resume-editor.select-photo" = "Выбрать фото";
+"resume-editor.add-contact" = "Добавить предмет";
+"resume-editor.add-field" = "Добавить область";
